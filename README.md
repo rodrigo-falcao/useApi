@@ -62,3 +62,6 @@ Este projeto é uma aplicação simples que utiliza **Bootstrap** para estiliza�
 
 🔹 **Projeto criado para aprendizado e prática!** 🚀 Sinta-se à vontade para contribuir ou sugerir melhorias. 😊
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b4d6b9e0-8bb4-4446-95f5-01f9ad52adec" alt="Screenshot do projeto">
+</p>
