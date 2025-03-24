@@ -2,6 +2,9 @@
 
 Este projeto é uma aplicação simples que utiliza **Bootstrap** para estilização e faz requisições a duas APIs: **ViaCEP** para buscar informações de endereço a partir de um CEP e **Open-Meteo** para obter a previsão do tempo com base em coordenadas geográficas.
 
+## 🌍 Acesse o Projeto
+🔗 [Clique aqui para acessar](https://rodrigo-falcao.github.io/useApi/)
+
 ## 📌Funcionalidades
 
 1. **Busca de Endereço pelo CEP**:
